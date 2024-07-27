@@ -1,5 +1,5 @@
 # Kivy Tabbed Data Manager
-Tabbed Data Manager made in Kivy is an application for managing and organising tabbed data. It allows users to add new tabs and items to each tab. In addition, users can rename tabs and items, as well as delete them if necessary. The app synchronises data with an external API, ensuring it is up-to-date and stored in the cloud. With its clear interface and ease of use, Tabbed Data Manager is the ideal tool for effective information management.
+Tabbed Data Manager made in Kivy is an android application for managing and organising tabbed data. It allows users to add new tabs and items to each tab. In addition, users can rename tabs and items, as well as delete them if necessary. The app synchronises data with an external API, ensuring it is up-to-date and stored in the cloud. With its clear interface and ease of use, Tabbed Data Manager is the ideal tool for effective information management.
 
 | Keys              | Actions                                                         |
 |--------------------------|----------------------------------------------------------|
